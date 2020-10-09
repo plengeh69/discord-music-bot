@@ -1,0 +1,27 @@
+{
+  "name": "paijo",
+  "version": "3.0.0",
+  "description": "A discord music bot made by paijo",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "yt-search": "^2.2.4",
+    "ytdl-core": "^3.2.2",
+    "opusscript": "^0.0.7",
+    "node-opus": "^0.3.3"
+  }
+}
+
+
+  
